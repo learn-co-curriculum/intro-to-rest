@@ -83,7 +83,7 @@ Routes are simply the combination of an HTTP verb and a URI. When we
 create a system, we have to define the routes by which people will
 access our resources.
 
-Armed with an understand of which verbs are for which actions, here is what our newsletter application's routes might look like.
+Armed with an understanding of which verbs are for which actions, here is what our newsletter application's routes might look like.
 
 ```js
 GET      /newsletters 				     # Show all newsletters
